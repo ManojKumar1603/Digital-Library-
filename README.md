@@ -15,7 +15,7 @@ The Digital Library project aims to provide a comprehensive platform for managin
 - JDK (Java Development Kit): Provides essential tools and runtime environments for developing and running Java applications, including frontend and backend functionalities.
 
 ### Installation 
- [Installation Link] (https://github.com/ManojKumar1603/Digital-Library-Installation-Application.git)
+ [Installation Link](https://github.com/ManojKumar1603/Digital-Library-Installation-Application.git)
 To set up the Digital Library project on your local machine, follow these steps:
 
 1. Install Java Development Kit (JDK) for Java development.
@@ -33,9 +33,19 @@ To set up the Digital Library project on your local machine, follow these steps:
 3. Open WampServer > php myadmin.
 4. Now Import the database from database folder select Sql file.
 5. Open window type Configure Tomcat > Run as Administator.
-6. If the tomcat is already running okay, else click on the start. ![image](https://github.com/ManojKumar1603/Digital-Library-/assets/122170545/7934b205-6939-4ab8-a0c5-efd651093380) As shown in Picture.
-7. Now Open any browser type localhost:8080/folder {by default it will be 8080 if you have changed to something then type that} ![image](https://github.com/ManojKumar1603/Digital-Library-/assets/122170545/25601582-8b55-42dc-83cf-f75a4c509f36) It should appear like in the picture.
-8. Now open the login.jsp file ![image](https://github.com/ManojKumar1603/Digital-Library-/assets/122170545/f15f7380-ea67-4f4c-8316-77a339529920)
+6. If the tomcat is already running okay, else click on the start.
+
+ ![image](https://github.com/ManojKumar1603/Digital-Library-/assets/122170545/7934b205-6939-4ab8-a0c5-efd651093380) 
+ 
+ As shown in Picture.
+ 
+7. Now Open any browser type localhost:8080/folder {by default it will be 8080 if you have changed to something then type that}
+![image](https://github.com/ManojKumar1603/Digital-Library-/assets/122170545/25601582-8b55-42dc-83cf-f75a4c509f36) 
+
+It should appear like in the picture.
+
+8. Now open the login.jsp file
+![image](https://github.com/ManojKumar1603/Digital-Library-/assets/122170545/f15f7380-ea67-4f4c-8316-77a339529920)
 9. Now enter the credentail.
 
 
