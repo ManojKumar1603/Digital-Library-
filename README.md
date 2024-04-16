@@ -15,7 +15,7 @@ The Digital Library project aims to provide a comprehensive platform for managin
 - JDK (Java Development Kit): Provides essential tools and runtime environments for developing and running Java applications, including frontend and backend functionalities.
 
 ### Installation 
- [Installation Link](https://github.com/ManojKumar1603/Digital-Library-Installation-Application.git)
+ [Installation Link](https://github.com/ManojKumarNaragund/Digital-Library-Installation-Application)
 To set up the Digital Library project on your local machine, follow these steps:
 
 1. Install Java Development Kit (JDK) for Java development.
